@@ -1,11 +1,19 @@
 h1 {
     color:rgb(249, 139, 14);
+    font-size:larger;
 }
 h2{
     color:rgb(249, 139, 14);
+    font-size:larger;
 }
 h3{
     color:rgb(249, 139, 14);
+    font-size:larger;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 *{
@@ -19,14 +27,16 @@ h3{
 
    }
    #header{
-    border: 1px solid rgb(12, 11, 10);
-    font: size 20px;
-    color: rgb(176, 76, 243);
-   }
+    color: rgb(8, 6, 8);
+    font-size:x-large;
+    
+}
    #top{
-    color:rgb(10, 13, 15);
+    color:rgb(157, 87, 231);
     font-size:20px;
+    border: 1px solid rgb(0, 0, 0);
    }
    .top1{
     color: rgb(228, 27, 27);
+    font-size:larger;
    }
