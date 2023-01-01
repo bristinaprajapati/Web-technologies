@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(47, 164, 100);
+}
+
+figure {
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.sponsors{
+    
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+h1{
+    font-size: 45px;
+    margin-left: 10%;
+    color: rgb(248, 248, 248);
+    padding: 40px;
+}
+p{
+   font-size: 18px;
+   margin-left: 20%;
+   color: rgb(253, 253, 253);
+ 
+}
+.sponsors1{
+    margin-left: 20px;
+ }
+ 
